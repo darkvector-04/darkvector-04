@@ -1,14 +1,14 @@
 <h1 align="center">Hi , I'm Tharindu Dissanayake <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+Undergraduate;Horizon+Campus+Student;Python+Learner;C%2B%2B+Learner;Aspiring+Data+Scientist;Interested+in+Data+Analytics;Exploring+AI+%26+Machine+Learning;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+Undergraduate;Horizon+Campus+Student;Always+learning+new+things"></a>
 </p>
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=darkvector&label=Profile%20views&color=0047AB&style=plastic" alt="darkvector" height="25px" width="160px"/> 
-	<a href="https://github.com/darkvector" target="_blank">
-		<img src="https://img.shields.io/badge/GitHub-darkvector-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" height="25px" width="180px"/>
+	<img src="https://komarev.com/ghpvc/?username=darkvector-04&label=Profile%20views&color=0047AB&style=plastic" alt="darkvector-04" height="25px" width="160px"/> 
+	<a href="https://github.com/darkvector-04" target="_blank">
+		<img src="https://img.shields.io/badge/GitHub-darkvector--04-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" height="25px" width="180px"/>
 	</a>
 </p>
 
@@ -32,9 +32,9 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
 <p align="center">
-	<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/darkvector"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:madhwatharindudissanayake@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/darkvector-04"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/tharindu-dissanayake-033614441"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## 🛠️ My Skills
@@ -124,7 +124,7 @@
 <br>
 
 <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=darkvector&theme=tokyonight_duo" alt="darkvector" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=darkvector-04&theme=tokyonight_duo" alt="darkvector-04" />
 </p>
 
 </details>
@@ -135,9 +135,9 @@
 
 <p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img alt="darkvector's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darkvector&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+		<img alt="darkvector-04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darkvector-04&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
 	</a>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkvector&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="darkvector" height="230px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkvector-04&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="darkvector-04" height="230px"/>
 </p>
 
 <br>
@@ -151,7 +151,9 @@
 <br>
 
 <p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=darkvector&theme=github" alt="GitHub Activity Graph"/>
+	<a href="https://github.com/darkvector-04">
+		<img src="https://github-readme-activity-graph.vercel.app/graph?username=darkvector-04&theme=react-dark" alt="GitHub Activity Graph" width="100%"/>
+	</a>
 </p>
 
 </details>
@@ -162,7 +164,7 @@
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=darkvector&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="darkvector" />
+		<img src="https://github-profile-trophy.vercel.app/?username=darkvector-04&theme=onedark&column=3&margin-w=15&margin-h=15" alt="darkvector-04" />
 	</a>
 </p>
 
@@ -174,8 +176,8 @@
 
 <p align="center">
 
-	<a href="https://github.com/darkvector">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=darkvector&repo=darkvector&theme=tokyonight" alt="Profile Repository" />
+	<a href="https://github.com/darkvector-04">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=darkvector-04&repo=darkvector-04&theme=tokyonight" alt="Profile Repository" />
 	</a>
 
 </p>
@@ -191,9 +193,9 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkvector/darkvector/output/github-contribution-grid-snake-dark.svg">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darkvector/darkvector/output/github-contribution-grid-snake.svg">
-		<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/darkvector/darkvector/output/github-contribution-grid-snake.svg">
-	</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkvector-04/darkvector-04/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darkvector-04/darkvector-04/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/darkvector-04/darkvector-04/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
